@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React JS, PostgreSQL.
 - 💞️ I’m looking to collaborate on Python, React JS, PostgreSQL projects
 - 📫 How to reach me
+- https://t.me/BISH0808
 https://www.linkedin.com/in/bazyrov-ildar-b010966b/
 <!---
 BISH0808/BISH0808 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
