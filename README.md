@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Ildar
-- 👀 I’m interested in new projects in IT and in new technological projects  (oil and gas, mining and renewable energy industries).
+- 👋 Hi, I’m Ildar! Now I Devoted myself to Web App development.
+- 👀 I’m also interested in new projects in IT and in new technological projects  (oil and gas, mining and renewable energy industries).
 - 🌱 I’m currently learning React JS, MongoDB, PostgreSQL.
 - 💞️ I’m looking to collaborate on Python, React JS projects
 - 📫 How to reach me:
