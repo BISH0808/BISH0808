@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ildar! Now I Devoted myself to Web App development.
+- 👋 Hi, I’m Ildar! Now I Devoted myself to Web App development (React JS, MongoDB, PostgreSQL).
 - 👀 I’m also highly skilled scientist /engineer with 6+ years of experience in scientific, IT and oil and gas industries.
 - 🌱 I’m currently learning React JS, MongoDB, PostgreSQL.
-- 💞️ I’m looking to collaborate on Python, React JS projects
+- 💞️ I’m looking to collaborate on  React JS, Python projects
 - 📫 How to reach me:
   - https://t.me/BISH0808
   - https://www.linkedin.com/in/bazyrov-ildar-b010966b/
