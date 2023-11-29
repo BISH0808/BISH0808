@@ -4,4 +4,3 @@
 - 💞️ I’m looking to collaborate on  React JS, Python projects
 - 📫 How to reach me:
   - https://t.me/BISH0808
-  - https://www.linkedin.com/in/bazyrov-ildar-b010966b/
