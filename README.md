@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ildar!  I am Scientific and Educational Research Enthusiast.
 - 👀 I’m  highly skilled engineer/product manager with 6+ years of expertise across diverse sectors including oil and gas, energy, scientific, educational and IT industries.
 - 🌱  Demonstrated proficiency in project management, from research of emerging technologies to their successful implementation.
-- 💞️  Now I am Co-Founder of EdTech StartUp
+- 💞️  Now I’m Co-Founder of EdTech StartUp
 - 📫 How to reach me:
   - https://t.me/BISH0808
