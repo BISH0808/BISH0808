@@ -3,4 +3,4 @@
 - 🌱  Demonstrated proficiency in project management, from research of emerging technologies to their successful implementation.
 - 💞️  Currently, I’m the Co-Founder and CEO of an EdTech startup (Online Chess Academy @Do!CHESS). I'm eager to collaborate on web app development.
 - 📫 How to reach me:
-  - Telegram: [BISH0808](https://t.me/BISH0808)
+  - Telegram: [Ildar](https://t.me/Ildar_Bazyrov)
