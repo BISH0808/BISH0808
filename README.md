@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Il'dar!  I am Scientific and Educational Research Enthusiast.
-- 👀 I’m  highly skilled engineer/product manager with 6+ years of expertise across diverse sectors including oil and gas, energy, scientific, educational and IT industries.
+- 👋 Hi, I’m Il'dar!  I am Scientific Engineer. Also I am an Educational Research Enthusiast.
+- 👀 I’m  highly skilled engineer/product manager with 10+ years of expertise across diverse sectors including oil and gas, energy, scientific, educational and IT industries.
 - 🌱  Demonstrated proficiency in project management, from research of emerging technologies to their successful implementation.
-- 💞️  Currently, I’m the Co-Founder. I'm eager to collaborate on Web App Development.
+- 💞️  Also I’m the Co-Founder of EdTech Starup. I'm eager to collaborate on Web App Development.
 - 📫 How to reach me:
   - Mail: [Ildar_Bazyrov](mailto:ildarbazyrov@gmail.com)
